@@ -1,0 +1,10 @@
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\bin\Debug\Usando_BancoDeDados_SQLServer.exe.config
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\bin\Debug\Usando_BancoDeDados_SQLServer.exe
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\bin\Debug\Usando_BancoDeDados_SQLServer.pdb
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.csproj.AssemblyReference.cache
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.Form1.resources
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.Properties.Resources.resources
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.csproj.GenerateResource.cache
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.csproj.CoreCompileInputs.cache
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.exe
+C:\Users\palme\source\repos\Usando_BancoDeDados_SQLServer\obj\Debug\Usando_BancoDeDados_SQLServer.pdb
